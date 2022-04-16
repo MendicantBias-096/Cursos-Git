@@ -1,2 +1,2 @@
-console.log("Hola Mundo Para GitKraken");
+console.log("Hola Mundo");
 
